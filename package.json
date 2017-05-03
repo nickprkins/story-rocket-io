@@ -1,0 +1,39 @@
+{
+  "name": "storyrocketio",
+  "version": "1.0.0",
+  "description": "website for Story Rocket",
+  "main": "index.html",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickprkins/story-rocket-io.git"
+  },
+  "keywords": [
+    "story",
+    "rocket",
+    "app",
+    "development",
+    "mobile",
+    "iOS",
+    "apps",
+    "Android",
+    "apps",
+    "church",
+    "city",
+    "web",
+    "development",
+    "website",
+    "development"
+  ],
+  "author": "Nick Perkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickprkins/story-rocket-io/issues"
+  },
+  "homepage": "https://github.com/nickprkins/story-rocket-io#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
